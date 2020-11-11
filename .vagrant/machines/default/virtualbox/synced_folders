@@ -1,0 +1,1 @@
+{"virtualbox":{"/mnt/nfs_clientshare/tp-jenkins":{"type":"virtualbox","guestpath":"/mnt/nfs_clientshare/tp-jenkins","hostpath":"C:/www/formation-devops","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/www/formation-devops/tp-jenkins","disabled":false,"__vagrantfile":true}}}
